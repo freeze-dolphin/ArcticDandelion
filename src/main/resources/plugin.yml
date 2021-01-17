@@ -1,0 +1,9 @@
+name: ArcticDandelion
+author: Freeze_Dolphin
+version: ${project.version}
+
+main: io.freeze_dolphin.arctic_dandelion.ArcticDandelion
+
+depend: 
+- Slimefun
+- CS-CoreLib
