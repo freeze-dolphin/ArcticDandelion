@@ -18,7 +18,7 @@ import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 
 public class ArcticDandelion extends JavaPlugin {
 
-	private Config config = new Config(this); 
+	private Config config = new Config(this);
 	private Plugin plug = this;
 
 	@Override
