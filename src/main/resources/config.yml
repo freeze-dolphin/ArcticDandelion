@@ -1,2 +1,5 @@
-enabled-modules: 
+enabled-internal-modules: 
 - ""
+
+enabled-groovy-modules: 
+- "SolarGenerators"
